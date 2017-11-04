@@ -115,4 +115,4 @@ Click on View logs
 
 Click on stdout and you should see the dataframe output printout printing every few seconds
 
-
+![AWS EMR Success image](https://github.com/badrishdavey/au-hackathon-streaming-app/raw/master/AWS_EMR_Success.png "AWS EMR Success")
