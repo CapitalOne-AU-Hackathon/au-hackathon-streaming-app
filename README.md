@@ -106,3 +106,13 @@ Arguments: ec2-54-174-211-86.compute-1.amazonaws.com:9092 au_hackathon 5
 Action on failure: Continue
 ```
 ![AWS EMR Add Step image](https://github.com/badrishdavey/au-hackathon-streaming-app/raw/master/AWS_EMR_Add_Step.png "AWS EMR Add Step")
+
+### Step 5
+
+Wait for the Spark job to start, approximately 5 minutes
+
+Click on View logs
+
+Click on stdout and you should see the dataframe output printout printing every few seconds
+
+
