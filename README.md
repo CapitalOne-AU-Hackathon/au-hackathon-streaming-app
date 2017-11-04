@@ -38,7 +38,7 @@ export KAFKA_HOME=/usr/local/Cellar/kafka/0.11.0.1
 
 Run the shell script
 ```
-$KAFKA_HOME/bin/kafka-console-consumer.sh --bootstrap-server ec2-54-174-211-86.compute-1.amazonaws.com:9092 --topic au_hackathon
+$KAFKA_HOME/bin/kafka-console-consumer.sh --bootstrap-server kafkastreaming.capitalonehackathon.com:9092 --topic au_hackathon
 ```
 
 # Using this project
